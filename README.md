@@ -2,6 +2,10 @@
 
 三国人物结构化数据
 
+## 仓库地址
+> * github 仓库地址 [https://github.com/fthux/Characters_of_the_Three_Kingdoms](https://github.com/fthux/Characters_of_the_Three_Kingdoms)。
+> * gitee 仓库地址 [https://gitee.com/fthux/Characters_of_the_Three_Kingdoms](https://gitee.com/fthux/Characters_of_the_Three_Kingdoms)。
+
 ## 为什么会有这个项目
 
 * 需求1：摆脱网上那些长篇累牍的文章；
@@ -28,7 +32,7 @@
 
 ## 数据展示 DEMO
 
-1. 所有已经完成的人物数据可查看数据展示 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+1. 所有已经完成的人物数据可查看数据展示 [DEMO](http://fthux.github.io/Characters_of_the_Three_Kingdoms)。
 
 2. DEMO 页面使用 `ajax` 获取 `characters` 文件夹的 `json` 文件，若要本地运行 DEMO 页面，需本地启动 `server`。将项目 `clone` 到本地后，执行：
 
@@ -205,7 +209,7 @@ gulp
 
 ## 已经完成的人物数据
 
-所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+所有已经完成的人物数据可查看 [DEMO](http://fthux.github.io/Characters_of_the_Three_Kingdoms)。
 
 <table>
   <tbody>
@@ -336,14 +340,14 @@ gulp
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="300" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, myvin
+Copyright (c) 2018-present, fthux
