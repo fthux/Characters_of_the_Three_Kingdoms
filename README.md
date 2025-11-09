@@ -1,6 +1,6 @@
-# Characters of the Three Kingdoms - 三国人物结构化数据
+# Characters of the Three Kingdoms
 
-三国人物结构化数据
+> 三国人物结构化数据
 
 ## 仓库地址
 > * github 仓库地址 [https://github.com/fthux/Characters_of_the_Three_Kingdoms](https://github.com/fthux/Characters_of_the_Three_Kingdoms)。
@@ -58,6 +58,8 @@ gulp
 
 ## 数据示例
 
+<details>
+<summary>数据示例</summary>
 ```
 {
   // 姓名
@@ -206,11 +208,14 @@ gulp
   ]
 }
 ```
+</details>
 
 ## 已经完成的人物数据
 
 所有已经完成的人物数据可查看 [DEMO](http://fthux.github.io/Characters_of_the_Three_Kingdoms)。
 
+<details>
+<summary>已经完成的人物数据</summary>
 <table>
   <tbody>
     <tr>
@@ -323,6 +328,7 @@ gulp
     </tr>
   </tbody>
 </table>
+</details>
 
 ## 意见建议
 
@@ -330,24 +336,28 @@ gulp
 
 如果你有好的建议或意见，欢迎提 issue 反馈。
 
-## 联系方式
-
-* Email: 851399101@qq.com
-
 ## 请喝咖啡
 
-如果我的项目对你有帮助，可以请我喝杯~~咖啡~~白开水。
+如果我的项目对你有帮助，可以请我喝杯白开水。
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+<div>
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="200" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="200" />
+</div>
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
+<div>
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="200" />
+</div>
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2018-present, fthux
+
+## Star 历史
+
+[![Star 历史表格](https://api.star-history.com/svg?repos=fthux/Characters_of_the_Three_Kingdoms&type=Date)](https://star-history.com/#fthux/Characters_of_the_Three_Kingdoms&Date)
