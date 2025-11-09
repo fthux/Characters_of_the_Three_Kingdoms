@@ -1,5 +1,7 @@
 # Characters of the Three Kingdoms
 
+![Achived](https://img.shields.io/badge/achived-read_only-8A2BE2)
+
 > 三国人物结构化数据
 
 ## 仓库地址
